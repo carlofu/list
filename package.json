@@ -8,7 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/carlofu/list.git"
+    "url": "https://github.com/carlofu/list.git"
+  },
+  "dependencies": {
+    "notion-upd": "1.0.0",
+    "minti_fulkerson": "0.1.4"
   },
   "author": "",
   "license": "ISC",
